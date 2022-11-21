@@ -1,0 +1,4 @@
+variables:
+- team: annmcd-cb-casc-demo-v1
+- admin-user: amcdermott-cb-admin
+- manager-user: amcdermott-cb
